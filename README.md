@@ -7,7 +7,7 @@ NOTE : The TruBasic name and logo is Copyright and must not be used anywhere els
 
 Can anyone help me and add a window system like tkinter. i tried but failed.
 
-TruBasic BASIC is a simple, dynamically typed, interpreted programming language with syntax inspired by python and javascript with an aim for readability and understandablility. It is not the fastest langauge ever because it is interpreted by python, but it will get the job done for simple tasks
+TruBasic is a simple, dynamically typed, interpreted programming language with syntax inspired by python and javascript with an aim for readability and understandablility. It is not the fastest langauge ever because it is interpreted by python, but it will get the job done for simple tasks
 ## Files
 ---
  ### main.py 

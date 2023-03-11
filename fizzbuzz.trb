@@ -1,0 +1,47 @@
+def fizz_buzz(words, tests, *range)
+    let step_val = if len(range) == 3: range/2 else: 1
+    for i = range/0 to range/1 step step_val:
+        let output = ""
+        for j = 0 to len(tests):
+            let number = tests/j
+            let word = words/j
+            if i%number == 0:
+                output = output + word
+            end.
+        end.
+        output = if output == "": i else: output
+        printer(i+":", output)
+    end.
+    printer("FizzBuzz Complete!")
+end.
+
+def join(elements, separator=" ")
+    let result = ""
+    let Len = len(elements)
+
+    for i = 0 to Len:
+        result = result + elements/i
+        if i != Len - 1: result = result + separator
+    end.
+
+    return (result)
+end.
+
+def test(n, callback)
+  return n*callback(n)
+end.
+
+printer(test(5, (n)
+    if n%2 == 0: 
+      return n**2
+    else
+      return n**3
+    end.
+end.))
+
+printer(join(list("david"), ", "))
+
+let end = int(input("input ending value: "))
+
+fizz_buzz(["fizz", "buzz", "biff", "buff"], [3, 5, 7, 2], 0, end)
+

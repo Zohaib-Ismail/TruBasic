@@ -1,6 +1,6 @@
 # TruBasic
 <html>
- <a href="https://gypsydangerous.github.io/TruBasic-BASIC/" target="_blank"><img src="TruBasic Logo.png" width=200 height=200 alt="Icon"></img></a>
+ <a img="target="_blank"><img src="TruBasic Logo.png" width=200 height=200 alt="Icon"></img></a>
 </html>
 
 NOTE : The TruBasic name and logo is Copyright and must not be used anywhere else you can clone this repo, change it and redistrobute it under another name.
